@@ -11,7 +11,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="../css/images/img0001.jpg" class="d-block w-100">
+    <img src="css/images/img0001.jpg" class="d-block w-100">
       <div class="container">
         <div class="carousel-caption text-left">
           <h1>Consultora Ganadera</h1>
@@ -21,7 +21,7 @@
       </div>
     </div>
     <div class="carousel-item">
-    <img src="../css/images/img0002.jpg" class="d-block w-100">
+    <img src="css/images/img0002.jpg" class="d-block w-100">
       <div class="container">
         <div class="carousel-caption">
           <h1>Ejemplo 2</h1>
@@ -31,7 +31,7 @@
       </div>
     </div>
     <div class="carousel-item">
-    <img src="../css/images/img0003.jpg" class="d-block w-100">
+    <img src="css/images/img0003.jpg" class="d-block w-100">
       <div class="container">
         <div class="carousel-caption text-right">
           <h1>Otro Ejemplo</h1>
@@ -41,7 +41,7 @@
       </div>
     </div>
     <div class="carousel-item">
-    <img src="../css/images/img0004.jpg" class="d-block w-100">
+    <img src="css/images/img0004.jpg" class="d-block w-100">
       <div class="container">
         <div class="carousel-caption text-left">
           <h1>Ultimo Ejemplo</h1>
